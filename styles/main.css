@@ -1,0 +1,18 @@
+
+/* this is how you comment in css */
+
+/* SELECTOR{
+	RULE1: rule_value;
+	RULE2: rule_value;
+	...
+}
+*/
+
+h1 {
+	color: red;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+}

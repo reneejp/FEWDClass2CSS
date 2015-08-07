@@ -16,3 +16,43 @@ img {
 	width: 300px;
 	height: 200px;
 }
+
+a {
+	font-style: oblique;
+	color: blue;
+	font-weight: 100;
+}
+
+p.peng {
+	font-size: 8pt;
+}
+
+.dog {
+	color: green;	
+}
+
+.cray {
+	color: blue;
+}
+
+#foo {
+	font-size: 32pt;
+}
+
+.dog.cray {
+	font-style:italic;
+	color:#0044ff;
+}
+
+.button {
+	color: white;
+	background-color: #0d8be4;
+}
+
+p {
+	margin:0;
+	border:1px solid black;
+	padding:20px;
+}
+
+

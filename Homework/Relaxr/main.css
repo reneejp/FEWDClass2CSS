@@ -1,0 +1,81 @@
+html {
+	font-size: 10px;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.slide {
+	padding: 4rem 6rem;
+	box-sizing: border-box;
+
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    border: 1px solid black;
+}
+
+.slide__logo {
+	font-size: 4.2rem;
+
+	font-weight: 600;
+	color: #fff;
+}
+
+.slide--home {
+	background-image: url(../assets/relaxr_header_bg.jpg);
+}
+
+.slide--testimonial {
+	background-image: url(../assets/relaxr_testimonial_bg.jpg);
+}
+
+.slide--yellow {
+	background-color: yellow;
+}
+
+.slide--black {
+	background-color: #292929;
+}
+
+.slide--grey {
+	background-color: #eee;
+}
+
+.splash {
+	/*border: 1px solid black;*/
+	box-sizing: border-box;
+
+	padding: 4rem;
+	text-align: center;
+}
+
+.splash__main {
+	font-size: 3.2rem;
+	font-weight: 500;
+	color: white;
+	margin-bottom: 2rem;
+}
+
+.button {
+	padding: 1rem 2rem;
+	background-color: yellow;
+	border-radius: 5px;
+
+	display: inline-block;
+
+	font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
